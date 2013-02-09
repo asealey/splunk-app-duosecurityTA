@@ -1,0 +1,3 @@
+Add the duo.conf file, correctly configured to your integration, into this local directory.  The Duo script will parse the configuration and run against the integration.
+
+Also, if you want the duo events to go into a different index or sourcetype, copy the inputs.conf from /default into /local and modify as necessary
